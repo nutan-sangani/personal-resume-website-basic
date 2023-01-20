@@ -1,0 +1,153 @@
+.top{
+text-align: center;
+width: 100%;
+position: relative;
+background-color: #7DE5ED;
+display: inline-block;
+margin:0;
+padding-top: 50px;
+
+
+font-family: cursive;
+}
+p{
+  margin:0;
+  border-style: none;
+  line-height: 2;
+}
+.button{
+border-style: solid;
+padding: 10px 15px;
+color: #66BFBF;
+background-color: red;
+text-align: center;
+transition-duration: 0.4s;
+box-shadow: 8px 10px 20px 9px rgba(0,0,0,0.2) ;
+}
+.button:hover{
+  background-color: white;
+  color:black;
+  box-shadow: 8px 8px 24px 2px rgba(0,0,0,0.4) ;
+}
+hr{
+  height: 3px;
+  border-color: black;
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  width: 7%;
+  padding:20px 0px 20px 0px;
+  margin-top: 15px;
+
+}
+.cloud1{
+  position: absolute;
+  left:63%;
+  padding: 10px;
+  top: 30px;
+}
+.bottom-container{
+width: 100%;
+margin: auto;
+background-color:black;
+color:white;
+font-weight: bolder;
+  text-align: center;
+  padding: 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.prolife{
+  float: left;
+  padding-right: 20px;
+}
+.dekh{
+  clear:both;
+}
+.prolife2{
+  float: right;
+  padding-left: 20px;
+}
+.skills{
+  line-height: 2;
+  margin: 0 auto 0 auto;
+}
+.skillsr{
+  text-align: right;
+}
+.skillsl{
+  text-align: left;
+}
+.middle-container{
+  text-align: center;
+  width: 100%;
+  background-color: #CDFCF6;
+  display: inline-block;
+  margin:0;
+  font-family: cursive;
+  padding: 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+table{
+  border-spacing: 50px;
+}
+td{
+  text-align: center;
+}
+.profile{
+border-radius:50%;
+}
+.table-text{
+  text-align: left;
+}
+.cloud2{
+  position: absolute;
+  left:23%;
+  top:200px;
+}
+.mountain{
+  margin: 20px;
+}
+body{
+  margin: 0;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+SPAN{
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.skills{
+  position: relative;
+}
+.first{
+  position:absolute;
+  left:20%;
+}
+.second{
+  position:absolute;
+  right:20%;
+}
+.pic{
+ position: relative;
+ top:30px;
+}
+.heading{margin:20px 0;
+  font-family: 'Caveat Brush', cursive;
+  height:39px;
+  font-size: 3.2rem;
+  position: relative;
+  top:10px;
+}
+
+h1{
+  line-height: 2;
+}
+a{padding: 10px;
+  color: #11999E;
+  text-decoration: none;
+
+}
